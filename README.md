@@ -1,3 +1,5 @@
+sadece firefox'ta çalışmaktadır.
+
 hzlı güncellenen site:
 https://win11-alihankarakus.glitch.me/
 
