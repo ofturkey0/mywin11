@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url('https://cdn.glitch.com/238bee8c-1bbc-4fdd-95d1-a30b2a953c1b%2Fbg.jpeg?v=1629143681300'); 
+    background-image: url('https://cdn.glitch.com/238bee8c-1bbc-4fdd-95d1-a30b2a953c1b%2Focean-6522657_1920.jpg?v=1630091018700'); 
     background-size: cover;
     overflow: hidden;
     height: 100vh;
@@ -17,7 +17,7 @@ body{
     bottom: 0;
     display: flex;
     z-index: 110;
-    justify-content: center;
+    justify-content: left;
 }
 
 .startmenu{
@@ -25,7 +25,7 @@ body{
     /* bottom: 50px; */
     bottom: -655px;
     width: 100%;
-    text-align: center;
+    text-align: left;
     transition: all 0.3s ease-in; 
 }
 
